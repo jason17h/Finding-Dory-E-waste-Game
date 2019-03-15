@@ -1,5 +1,3 @@
-# ICS 3U1 - Jason Huang - Final Performance Task (due: June 21, 2016)
-
 from pygame import * # importing the pygame module
 import random # importing random module
 import math # importing math module
